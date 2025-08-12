@@ -12,6 +12,7 @@
 
 #include <map>
 #include <memory>
+#include <string>
 #include <mutex>
 #include <set>
 
