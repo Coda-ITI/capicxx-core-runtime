@@ -7,6 +7,8 @@
 #error "Only <CommonAPI/CommonAPI.hpp> can be included directly, this file may disappear or change contents."
 #endif
 
+#include <string>
+
 #ifndef COMMONAPI_TYPES_HPP_
 #define COMMONAPI_TYPES_HPP_
 
